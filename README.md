@@ -54,6 +54,9 @@ Please install the enviroment as follows:
     # clone dip_final_project
     git clone https://github.com/IAII-411581008/dip_final_proj.git
 
+3. Lastly, make sure you have similar programming structure with [Programming Structure](https://github.com/IAII-411581008/dip_final_proj/blob/main/programming_structure.png).
+
+
 ## Run It
 1. First, enhance the raw video by using `video_preprocessing.mlx` script and the proceeded results will be save at `.../ultralytics/runs/video2frame_pre`.
 
